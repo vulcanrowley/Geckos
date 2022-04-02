@@ -1,0 +1,8 @@
+    "dev:game": "parcel index.html -p 8000",
+    "dev:nodemon": "nodemon --delay 500ms server/server.js"
+
+    "dev:nodejs": "nodemon server/server.js",
+    "dev:browser": "live-server --port=8080"
+
+    taskkill /f /im node.exe
+
